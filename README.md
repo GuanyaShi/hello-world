@@ -1,2 +1,3 @@
 # hello-world
-Try to set a new repository
+
+Great to start a new journey via GitHub.
